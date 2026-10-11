@@ -16,7 +16,7 @@ O objetivo é analisar o desempenho de vendas, os custos de envio, a lucrativida
 
 ## 🖥️ Dashboard
 
-
+![Dashboard de Vendas desenvolvido no Power BI](Dashboard.png)
 
 ## 📈 Visualizações Utilizadas
 
